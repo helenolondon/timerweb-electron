@@ -1,0 +1,119 @@
+<div class="container-fluid py-3">
+  <div class="row">
+    <div class="col">
+      <full-calendar [options]="calendarOptions" (contextmenu)="onContextMenu($event, $event)"></full-calendar>
+    </div>
+  </div>
+</div>
+
+<!-- Create/Edit Appointment Modal -->
+<div *ngIf="showModal" class="modal-overlay" (click)="onCancel()">
+  <div class="modal-content" (click)="$event.stopPropagation()">
+    <div class="modal-header">
+      <h5 class="modal-title">{{ isEditMode ? 'Editar Tarefa' : 'Nova Tarefa' }}</h5>
+      <div class="header-actions">
+        <button *ngIf="isEditMode" class="btn btn-outline-danger btn-sm me-2" (click)="onDelete()" title="Excluir">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="3 6 5 6 21 6"></polyline>
+            <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+          </svg>
+        </button>
+        <button class="btn-close" (click)="onCancel()"></button>
+      </div>
+    </div>
+    <div class="modal-body">
+      <div class="mb-3">
+        <label for="description" class="form-label">Descrição *</label>
+        <textarea 
+          id="description" 
+          class="form-control"
+          [(ngModel)]="formData.description" 
+          placeholder="Digite a descrição da tarefa"
+          required
+        ></textarea>
+      </div>
+      <div class="mb-3">
+        <label for="startTime" class="form-label">Horário Início *</label>
+        <input 
+          type="datetime-local" 
+          id="startTime" 
+          class="form-control"
+          [(ngModel)]="formData.start_time"
+          required
+        >
+      </div>
+      <div class="mb-3">
+        <label for="endTime" class="form-label">Horário Final *</label>
+        <input 
+          type="datetime-local" 
+          id="endTime" 
+          class="form-control"
+          [(ngModel)]="formData.end_time"
+          required
+        >
+      </div>
+      <div class="mb-3">
+        <label for="jiraNumber" class="form-label">Número Jira</label>
+        <input 
+          type="text" 
+          id="jiraNumber" 
+          class="form-control"
+          [(ngModel)]="formData.jira_number" 
+          placeholder="ex: PROJ-123"
+        >
+      </div>
+      <div *ngIf="errorMessage" class="alert alert-danger">
+        {{ errorMessage }}
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn btn-secondary" (click)="onCancel()">Cancelar</button>
+      <button class="btn btn-primary" (click)="onSubmit()">{{ isEditMode ? 'Atualizar' : 'Criar' }}</button>
+    </div>
+  </div>
+</div>
+
+<!-- Export Modal -->
+<div *ngIf="showExportModal" class="modal-overlay" (click)="closeExportModal()">
+  <div class="modal-content" (click)="$event.stopPropagation()">
+    <div class="modal-header">
+      <h5 class="modal-title">Exportar Tarefas</h5>
+      <button class="btn-close" (click)="closeExportModal()"></button>
+    </div>
+    <div class="modal-body">
+      <div class="mb-3">
+        <label for="exportStartDateTime" class="form-label">Data e Horário Início *</label>
+        <input 
+          type="text" 
+          id="exportStartDateTime" 
+          class="form-control"
+          [(ngModel)]="exportData.startDateTime"
+          (input)="onDateTimeInput($event, 'start')"
+          placeholder="DD/MM/AAAA HH:MM"
+          maxlength="16"
+          required
+        >
+      </div>
+      <div class="mb-3">
+        <label for="exportEndDateTime" class="form-label">Data e Horário Fim *</label>
+        <input 
+          type="text" 
+          id="exportEndDateTime" 
+          class="form-control"
+          [(ngModel)]="exportData.endDateTime"
+          (input)="onDateTimeInput($event, 'end')"
+          placeholder="DD/MM/AAAA HH:MM"
+          maxlength="16"
+          required
+        >
+      </div>
+      <div *ngIf="errorMessage" class="alert alert-danger">
+        {{ errorMessage }}
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn btn-secondary" (click)="closeExportModal()">Cancelar</button>
+      <button class="btn btn-primary" (click)="exportToExcel()">Exportar</button>
+    </div>
+  </div>
+</div>

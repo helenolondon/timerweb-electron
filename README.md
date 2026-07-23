@@ -146,3 +146,5 @@ The application uses SQLite for local data storage:
 - **Database**: SQLite
 - **Desktop**: Electron 
 "# timerweb-electron" 
+"# timerweb-electron" 
+"# timerweb-electron" 

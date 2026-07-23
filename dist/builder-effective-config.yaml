@@ -1,0 +1,25 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.timerweb.app
+productName: TimerWeb
+files:
+  - filter:
+      - main.js
+      - preload.js
+      - frontend/dist/**/*
+      - backend/**/*
+extraResources:
+  - from: backend
+    to: backend
+win:
+  target: dir
+  sign: null
+  signAndEditExecutable: false
+linux:
+  target: AppImage
+  icon: build/icon.png
+mac:
+  target: dmg
+  icon: build/icon.icns
+electronVersion: 28.3.3

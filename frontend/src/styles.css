@@ -1,0 +1,129 @@
+/* Bootstrap Import */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* Global Styles */
+body {
+  background-color: #f8f9fa;
+}
+
+/* FullCalendar Custom Styles */
+.fc {
+  font-size: 1rem;
+}
+
+.fc-timegrid-slot {
+  height: 30px;
+}
+
+.fc-timegrid-slot-label {
+  font-size: 0.85rem;
+}
+
+.fc-col-header-cell-cushion {
+  text-decoration: none !important;
+}
+
+.fc-toggleHours-button-active {
+  background-color: #dc3545 !important;
+  border-color: #dc3545 !important;
+}
+
+.fc-toggleHours-button-active:hover {
+  background-color: #bb2d3b !important;
+  border-color: #b02a37 !important;
+}
+
+.digital-clock {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  padding-right: 30px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  font-family: 'Courier New', monospace;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.fc-toolbar .digital-clock {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  padding-right: 30px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  font-family: 'Courier New', monospace;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.fc-event {
+  background-color: #fffde7 !important;
+  color: black !important;
+  border: 1px solid #fdd835 !important;
+}
+
+.fc-event-title {
+  color: black !important;
+}
+
+.fc-event-time {
+  color: black !important;
+  font-weight: bold !important;
+}
+
+.fc-event * {
+  color: black !important;
+}
+
+/* Modal Overlay - Custom since Bootstrap modals are different */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  max-width: 500px;
+  width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.modal-body {
+  padding: 1.5rem;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  border-top: 1px solid #dee2e6;
+}

@@ -1,0 +1,450 @@
+2026-07-03 07:53:57 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-03 07:53:57 - Started 4004
+2026-07-03 08:04:58 - Stopping apitimecweb.exe
+2026-07-03 08:04:58 - ProcessKill 4004
+2026-07-03 08:04:58 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-03 08:06:01 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-03 08:06:01 - Started 6000
+2026-07-03 18:54:46 - Stopping apitimecweb.exe
+2026-07-03 18:54:46 - ProcessKill 6000
+2026-07-03 18:54:46 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-03 21:02:00 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-03 21:02:00 - Started 5244
+2026-07-03 21:35:30 - Stopping apitimecweb.exe
+2026-07-03 21:35:30 - ProcessKill 5244
+2026-07-03 21:35:31 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-04 07:26:52 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-04 07:26:52 - Started 5984
+2026-07-04 19:54:36 - Stopping apitimecweb.exe
+2026-07-04 19:54:36 - ProcessKill 5984
+2026-07-04 19:54:36 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-05 06:53:39 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 06:53:39 - Started 5736
+2026-07-05 07:48:42 - Stopping apitimecweb.exe
+2026-07-05 07:48:42 - ProcessKill 5736
+2026-07-05 07:48:42 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-05 07:49:12 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 07:49:12 - Started 6040
+2026-07-05 07:59:36 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 07:59:36 - Started 6548
+2026-07-05 08:01:58 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 08:01:58 - Started 5584
+2026-07-05 08:06:21 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 08:06:21 - Started 10048
+2026-07-05 08:08:51 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 08:08:51 - Started 2460
+2026-07-05 08:20:44 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 08:20:44 - Started 21580
+2026-07-05 08:23:30 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 08:23:30 - Started 6008
+2026-07-05 08:24:17 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 08:24:17 - Started 15624
+2026-07-05 08:29:19 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 08:29:19 - Started 23172
+2026-07-05 08:30:03 - Stopping apitimecweb.exe
+2026-07-05 08:30:03 - ProcessKill 23172
+2026-07-05 08:30:03 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-05 08:30:34 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 08:30:34 - Started 5700
+2026-07-05 11:50:59 - Stopping apitimecweb.exe
+2026-07-05 11:50:59 - ProcessKill 5700
+2026-07-05 11:50:59 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-05 18:05:42 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 18:05:42 - Started 1148
+2026-07-05 18:20:05 - Stopping apitimecweb.exe
+2026-07-05 18:20:05 - ProcessKill 1148
+2026-07-05 18:20:05 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-05 20:32:52 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-05 20:32:52 - Started 6192
+2026-07-05 21:03:33 - Stopping apitimecweb.exe
+2026-07-05 21:03:33 - ProcessKill 6192
+2026-07-05 21:03:33 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-06 07:39:46 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-06 07:39:46 - Started 6476
+2026-07-06 19:06:33 - Stopping apitimecweb.exe
+2026-07-06 19:06:33 - ProcessKill 6476
+2026-07-06 19:06:34 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-07 07:21:35 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-07 07:21:35 - Started 5972
+2026-07-07 18:46:09 - Stopping apitimecweb.exe
+2026-07-07 18:46:09 - ProcessKill 5972
+2026-07-07 18:46:09 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-08 07:42:42 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-08 07:42:42 - Started 6108
+2026-07-08 18:46:15 - Stopping apitimecweb.exe
+2026-07-08 18:46:15 - ProcessKill 6108
+2026-07-08 18:46:15 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-09 07:49:53 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-09 07:49:53 - Started 5452
+2026-07-09 19:50:31 - Stopping apitimecweb.exe
+2026-07-09 19:50:31 - ProcessKill 5452
+2026-07-09 19:50:31 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-10 06:56:54 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-10 06:56:54 - Started 6068
+2026-07-10 18:04:05 - Stopping apitimecweb.exe
+2026-07-10 18:04:05 - ProcessKill 6068
+2026-07-10 18:04:05 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-11 09:15:40 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-11 09:15:40 - Started 6088
+2026-07-11 21:00:58 - Stopping apitimecweb.exe
+2026-07-11 21:00:58 - ProcessKill 6088
+2026-07-11 21:00:59 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-12 07:03:44 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-12 07:03:44 - Started 3136
+2026-07-12 18:12:57 - Stopping apitimecweb.exe
+2026-07-12 18:12:57 - ProcessKill 3136
+2026-07-12 18:12:57 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-13 12:18:13 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-13 12:18:13 - Started 5648
+2026-07-13 20:12:05 - Stopping apitimecweb.exe
+2026-07-13 20:12:05 - ProcessKill 5648
+2026-07-13 20:12:06 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-13 20:14:43 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-13 20:14:43 - Started 5860
+2026-07-13 20:15:36 - Stopping apitimecweb.exe
+2026-07-13 20:15:36 - ProcessKill 5860
+2026-07-13 20:15:37 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-14 07:39:41 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-14 07:39:41 - Started 6024
+2026-07-14 19:20:19 - Stopping apitimecweb.exe
+2026-07-14 19:20:19 - ProcessKill 6024
+2026-07-14 19:20:19 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-15 07:54:11 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-15 07:54:11 - Started 5256
+2026-07-15 18:33:47 - Stopping apitimecweb.exe
+2026-07-15 18:33:47 - ProcessKill 5256
+2026-07-15 18:33:47 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-15 18:34:29 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-15 18:34:29 - Started 6668
+2026-07-15 18:35:18 - Stopping apitimecweb.exe
+2026-07-15 18:35:18 - ProcessKill 6668
+2026-07-15 18:35:18 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-15 18:35:46 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-15 18:35:46 - Started 5680
+2026-07-15 18:36:06 - Stopping apitimecweb.exe
+2026-07-15 18:36:06 - ProcessKill 5680
+2026-07-15 18:36:06 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-16 08:00:55 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-16 08:00:55 - Started 5096
+2026-07-16 21:02:52 - Stopping apitimecweb.exe
+2026-07-16 21:02:52 - ProcessKill 5096
+2026-07-16 21:02:52 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-17 06:14:06 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-17 06:14:06 - Started 5256
+2026-07-17 10:57:51 - Stopping apitimecweb.exe
+2026-07-17 10:57:51 - ProcessKill 5256
+2026-07-17 10:57:52 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-17 13:36:26 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-17 13:36:26 - Started 6112
+2026-07-17 18:20:23 - Stopping apitimecweb.exe
+2026-07-17 18:20:23 - ProcessKill 6112
+2026-07-17 18:20:23 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-18 15:59:12 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-18 15:59:12 - Started 5864
+2026-07-18 19:19:31 - Stopping apitimecweb.exe
+2026-07-18 19:19:31 - ProcessKill 5864
+2026-07-18 19:19:31 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-19 07:56:44 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-19 07:56:44 - Started 5972
+2026-07-19 19:25:35 - Stopping apitimecweb.exe
+2026-07-19 19:25:35 - ProcessKill 5972
+2026-07-19 19:25:35 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-07-20 07:56:57 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\lab\timerweb\backend\node_modules\node-windows\lib\wrapper.js --file E:\lab\timerweb\backend\server.js --scriptoptions= --log "Api Time C Web wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-07-20 07:56:57 - Started 5948
